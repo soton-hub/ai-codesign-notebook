@@ -1,6 +1,6 @@
 # ai-codesign-notebook
 
-COdesigning Trustworthy Autonomous Diabetes Systems `codesign_notebooks`.
+[![DOI](https://zenodo.org/badge/472441450.svg)](https://zenodo.org/badge/latestdoi/472441450) COdesigning Trustworthy Autonomous Diabetes Systems `codesign_notebooks`.
 
 This software is Copyright (c) 2022 University of Southampton and released on the MIT License.
 
