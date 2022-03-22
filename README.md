@@ -8,6 +8,8 @@ Authors: Chris Duckworth\*, Amid Ayobi\*, Jakub Dylag, Michael Boniface, Aisling
 
 \* Co-first authors.
 
+Contact : C.J.Duckworth@soton.ac.uk
+
 ## Introduction
 
 This repository contains an interactive computational notebook (and underlying code) used to facilate codesign sessions for the application of machine learning in type-1 diabetes. The notebook introduces a basic example machine learning model and the data it learns from to facilate discussion about machine learning's role in type-1 diabetes management. The notebook is designed to be used for a total of 5 hours (5 1-hour sessions). 
