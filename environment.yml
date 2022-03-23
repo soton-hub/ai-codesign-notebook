@@ -1,7 +1,6 @@
 name: codesign-open-source
 channels:
   - defaults
-name: python 3.8  
 dependencies:
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=4.5=1_gnu
