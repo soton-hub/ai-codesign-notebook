@@ -1,4 +1,4 @@
-name: codesign-open-source
+name: python 3.8
 channels:
   - defaults
 dependencies:
