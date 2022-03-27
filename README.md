@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/472441450.svg)](https://zenodo.org/badge/latestdoi/472441450) 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JakubDylag/ai-codesign-notebook/main?labpath=cotads_notebook.ipynb)
+
 COdesigning Trustworthy Autonomous Diabetes Systems `codesign_notebooks`.
 
 This software is Copyright (c) 2022 University of Southampton and released on the MIT License.
