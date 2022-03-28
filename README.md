@@ -6,7 +6,7 @@
 
 COdesigning Trustworthy Autonomous Diabetes Systems `codesign_notebooks`.
 
-This software is Copyright (c) 2022 University of Southampton and released on the MIT License.
+This software is Copyright (c) 2022 University of Southampton and released on the Apache 2.0 License.
 
 Authors: Chris Duckworth\*, Amid Ayobi\*, Jakub Dylag, Michael Boniface, Aisling O'Kane, Paul Marshall, Anitha Kumaran, Matthew Guy.
 
@@ -19,6 +19,12 @@ Contact : C.J.Duckworth@soton.ac.uk
 This repository contains an interactive computational notebook (and underlying code) used to facilate codesign sessions for the application of machine learning in type-1 diabetes. The notebook introduces a basic example machine learning model and the data it learns from to facilate discussion about machine learning's role in type-1 diabetes management. The notebook is designed to be used for a total of 5 hours (5 1-hour sessions). 
 
 The project, COdesigning Trustworthy Autonomous Diabetes Systems (COTADS), is funded by [The UKRI Trustworthy Autonomous Systems (TAS) Hub](https://www.tas.ac.uk/) which brought together young people with type-1 diabetes (and their care-givers), clinicians, human-computer interaction experts and data scientists to design algorithms for diabetes management. The software contained here was used in these sessions.
+
+## Try the nobook yourself
+
+You can try the notebook and interactive elements yourself by accessing it on Binder:
+
+[COTADS Codesign Notebook on Binder](https://mybinder.org/v2/gh/soton-hub/ai-codesign-notebook/HEAD?labpath=cotads_notebook.ipynb)
 
 ## Notebook topics
 
@@ -46,8 +52,8 @@ Here is the over-arching structure of the notebook and the key features.
 
 ## Key files 
 
-- [`cotads_notebook.ipynb`](./cotads_notebook.ipynb) : working version of the notebook used for the co-design sessions. Has dependencies on data in `./data`,  `./static_elements` and `./cotads_code.py`.
-- [`cotads_code.py`](./cotads_code.py) : working version of code used in the notebook used for the co-design sessions. Has dependencies on data in `./data`. 
+- [`cotads_notebook.ipynb`](./cotads_notebook.ipynb) : static version of the notebook used for the co-design sessions. Has dependencies on data in `./data`,  `./static_elements` and `./cotads_code.py`.
+- [`cotads_code.py`](./cotads_code.py) : version of code used in the notebook used for the co-design sessions. Has dependencies on data in `./data`. 
 
 ## Sub-directories
 
