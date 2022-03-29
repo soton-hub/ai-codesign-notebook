@@ -20,7 +20,7 @@ This repository contains an interactive computational notebook (and underlying c
 
 The project, COdesigning Trustworthy Autonomous Diabetes Systems (COTADS), is funded by [The UKRI Trustworthy Autonomous Systems (TAS) Hub](https://www.tas.ac.uk/) which brought together young people with type-1 diabetes (and their care-givers), clinicians, human-computer interaction experts and data scientists to design algorithms for diabetes management. The software contained here was used in these sessions.
 
-## Try the nobook yourself
+## Try the notebook yourself
 
 You can try the notebook and interactive elements yourself by accessing it on Binder:
 
