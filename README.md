@@ -8,7 +8,7 @@ COdesigning Trustworthy Autonomous Diabetes Systems `codesign_notebooks`.
 
 This software is Copyright (c) 2022 University of Southampton and released on the Apache 2.0 License.
 
-Authors: Chris Duckworth\*, Amid Ayobi\*, Jakub Dylag, Michael Boniface, Aisling O'Kane, Paul Marshall, Anitha Kumaran, Matthew Guy.
+Authors: Chris Duckworth\*, Amid Ayobi\*, Jakub Dylag, Aisling O'Kane, Paul Marshall, Anitha Kumaran, Matthew Guy, Michael Boniface
 
 \* Co-first authors.
 
